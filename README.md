@@ -1,16 +1,92 @@
-# React + Vite
+# Karoo Travel Agency Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Live Website
 
-Currently, two official plugins are available:
+Visit the project:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+https://karoo-travel.vercel.app/
 
-## React Compiler
+## Status
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+**Work in Progress**
 
-## Expanding the ESLint configuration
+This project is actively being improved and expanded. Future development includes appointment scheduling, online booking capabilities, customer inquiry forms, multilingual support, and additional travel services.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Overview
+
+Karoo Travel Agency is a React-based web platform that connects travelers with essential travel services, including visa assistance, airline ticket services, passport support, and vehicle rentals.
+
+The platform is intended to improve customer access to travel services, support appointment requests, reduce repetitive administrative inquiries, increase service visibility, and provide a foundation for future online booking capabilities.
+
+## Features
+
+* French-language user experience
+* Modern React-based frontend
+* Dedicated service pages for:
+
+  * Visa assistance
+  * Airline ticket services
+  * Passport services
+  * Vehicle rentals
+* Responsive and user-friendly design
+* Structured navigation across multiple services
+* Professional business presentation for travel-related operations
+
+## Technologies Used
+
+* React
+* Vite
+* JavaScript
+* HTML5
+* CSS3
+* Git
+* GitHub
+* Vercel
+
+## Project Objectives
+
+The website serves as a digital platform that helps travelers discover, understand, and access travel-related services through a centralized interface.
+
+The project focuses on improving customer experience while supporting business operations through:
+
+* Increased service visibility
+* Easier customer engagement
+* Appointment and service request support
+* Improved access to travel information and resources
+* A scalable foundation for future digital services
+
+## Skills Demonstrated
+
+* React component-based development
+* Frontend web development
+* Responsive web design
+* User experience (UX) design
+* Business process digitalization
+* Information architecture and navigation design
+* French-language content development
+* Git version control
+
+## Key Contributions
+
+* Designed and developed a complete travel agency web platform using React and Vite.
+* Organized multiple travel-related services into a single user-friendly interface.
+* Created a French-language digital experience tailored to a Francophone audience.
+* Developed a scalable frontend architecture that can support future service expansion.
+* Applied web technologies to address real business and customer-service needs.
+* Deployed and maintained a live web application using Vercel.
+
+## Future Enhancements
+
+* Online booking functionality
+* Appointment scheduling system
+* Customer inquiry forms
+* User accounts and customer portals
+* Multilingual support
+* Integration with travel reservation systems
+* Payment processing capabilities
+
+## Author
+
+Rachel Kabwiza
+
+Computer Science Student | Software Developer | Frontend and Mobile Application Development
